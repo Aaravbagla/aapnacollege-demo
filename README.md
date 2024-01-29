@@ -2,7 +2,7 @@
 <h1> GIT COMMANDS </h1>
 
 git config —global user.name “aaravbagla”
-git config —global user.email “aaravispossible19@gmail.com”
+git config —global user.email “mail”
 
 
 git clone link
