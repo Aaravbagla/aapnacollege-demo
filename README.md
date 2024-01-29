@@ -44,7 +44,7 @@ git branch -d naem (to delete)
 
 
 <h4>Merge the two branch</h4>
-
+way 1 - 
 git diff name
 <br>
 git merge name
