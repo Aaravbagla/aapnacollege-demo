@@ -53,3 +53,17 @@ way 2 -
 <br>
 Create a PR
 <br>
+
+
+<h4>Undoing changes</h4>
+
+case 1 : staged changes
+    git reset filename
+    git reset
+
+case 2 : committed changes (for one commit)
+    git reset HEAD-1
+
+case 3 : commotted changes (for many)
+    git reset commithash
+    git reset --hard commithash
