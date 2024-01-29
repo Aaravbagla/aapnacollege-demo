@@ -40,3 +40,16 @@ git checkout -b name (to create a new branch)
 <br>
 git branch -d naem (to delete)
 <br>
+
+
+
+<h4>Merge the two branch</h4>
+
+git diff name
+<br>
+git merge name
+<br>
+way 2 - 
+<br>
+Create a PR
+<br>
