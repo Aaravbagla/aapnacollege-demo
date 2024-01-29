@@ -49,7 +49,7 @@ git diff name
 <br>
 git merge name
 <br>
-way 2 - 
+way 2 -
 <br>
 Create a PR
 <br>
